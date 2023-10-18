@@ -1,5 +1,5 @@
 # Change Detection in Multi-temporal Satellite Images  
-In this job, I collaborated with <a href="https://github.com/IhebeddineRyahi">Ihebeddine RYAHI</a>  
+In this job, I collaborated with <a href="https://github.com/mahendrasawant26">Mahendra Sawant</a>  
 
 ## Table of contents
 1. [Overview](#Overview)
