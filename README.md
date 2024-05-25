@@ -29,3 +29,32 @@ It uses Principal Component Analysis (PCA) and K-means clustering techniques ove
 **NB**: The output directory should end with '/'.   
 The script will generate a difference image named `difference` and a `ChangeMap` image.   
 Other images are generated depending on morphological transformations.
+
+
+
+
+
+# Output
+
+Training and experimentation on datasets
+The change detection model will be trained both on the large-scale datasets such as U.S.
+Landsat Analysis Ready Data (ARD), Sentinel-2 and Eurostat and dataset that will be
+populated based on Indian context as part of this project.
+
+![image](https://github.com/mahendrasawant26/change-detection-of-deforest/assets/110108264/282ff203-a1ca-493b-b6bc-e93c773e08e2)
+
+![image](https://github.com/mahendrasawant26/change-detection-of-deforest/assets/110108264/7dd781bc-f7b4-4fda-b687-a66fcc16aa1d)
+
+
+# UML Diagram
+![image](https://github.com/mahendrasawant26/change-detection-of-deforest/assets/110108264/4fc4a0c8-6f08-411c-b7b9-69cbb436f856)
+
+
+# Change Detection
+![image](https://github.com/mahendrasawant26/change-detection-of-deforest/assets/110108264/cc3a3c02-3bb7-4af4-a838-061867823733)
+
+![image](https://github.com/mahendrasawant26/change-detection-of-deforest/assets/110108264/e56a29eb-11d1-4d89-a6ee-5d41ca42a33d)
+
+
+
+
